@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    moveForward()
+</string>
+			<key>ModifiedRange</key>
+			<string>{1272, 18}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1272, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    if isOnClosedSwitch {
+        toggleSwitch()
+    } else if isOnGem {
+        collectGem()
+    }
+</string>
+			<key>ModifiedRange</key>
+			<string>{1295, 100}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1277, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>for i in 1 ... 4 {
+    collectOrToggle()
+}
+turnLeft()
+moveForward()
+moveForward()
+turnLeft()
+for i in 1 ... 4 {
+    collectOrToggle()
+}
+turnRight()
+moveForward()
+turnRight()
+for i in 1 ... 4 {
+    collectOrToggle()
+}
+</string>
+			<key>ModifiedRange</key>
+			<string>{1441, 217}</string>
+			<key>OriginalContent</key>
+			<string>
+</string>
+			<key>OriginalRange</key>
+			<string>{1323, 1}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document4.playgroundchapter/Pages/Exercise4.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>while !isOnOpenSwitch {
+    while !isOnGem &amp;&amp; !isOnClosedSwitch {
+        navigateAroundWall()
+    }
+    if isOnGem {
+        collectGem()
+    } else {
+        toggleSwitch()
+    }
+    turnLeft()
+    turnLeft()
+</string>
+			<key>ModifiedRange</key>
+			<string>{1677, 211}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1677, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1893, 0}</string>
+			<key>OriginalContent</key>
+			<string>while !isOnGem {
+    navigateAroundWall()
+</string>
+			<key>OriginalRange</key>
+			<string>{1682, 42}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>
+
+</string>
+			<key>ModifiedRange</key>
+			<string>{1895, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1726, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document7.playgroundchapter/Pages/Exercise1.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

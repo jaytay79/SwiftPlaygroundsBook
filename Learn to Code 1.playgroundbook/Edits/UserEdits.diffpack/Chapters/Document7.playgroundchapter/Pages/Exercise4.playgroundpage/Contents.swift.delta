@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>while !isOnGem{
+    while !isOnClosedSwitch &amp;&amp; !isOnGem
+    {moveForward()
+    }
+    if isOnClosedSwitch &amp;&amp; isBlocked{
+        toggleSwitch()
+        turnLeft()
+    } else if isOnClosedSwitch {
+        toggleSwitch()
+        turnRight()
+    }
+}
+    collectGem()
+    
+</string>
+			<key>ModifiedRange</key>
+			<string>{946, 267}</string>
+			<key>OriginalContent</key>
+			<string>
+</string>
+			<key>OriginalRange</key>
+			<string>{946, 1}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document7.playgroundchapter/Pages/Exercise4.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

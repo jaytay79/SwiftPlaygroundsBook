@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>A Puzzle of Your Own</string>
+	<key>Description</key>
+	<string>Description</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>See if you can figure out how to add an instance of `PlatformLock` and  `Platform` by experimenting with the code.</string>
+		</dict>
+	</array>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PosterReference</key>
+	<string>LiveViewPoster.png</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+</dict>
+</plist>

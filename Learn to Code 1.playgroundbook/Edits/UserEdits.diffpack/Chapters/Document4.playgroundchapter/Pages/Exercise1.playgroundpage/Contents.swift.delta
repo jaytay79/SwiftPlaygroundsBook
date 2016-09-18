@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>func switches() {
+    moveForward()
+    if isOnClosedSwitch {
+        toggleSwitch()
+    }
+}
+for i in 1 ... 3 {
+    switches()
+}
+</string>
+			<key>ModifiedRange</key>
+			<string>{1310, 129}</string>
+			<key>OriginalContent</key>
+			<string>
+</string>
+			<key>OriginalRange</key>
+			<string>{1310, 1}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document4.playgroundchapter/Pages/Exercise1.playgroundpage/Contents.swift</string>
+</dict>
+</plist>
