@@ -1,3 +1,3 @@
-	# README.md
+# README.md
 	
-	A quick Swift Playgrounds book test using DrawingKit
+A quick Swift Playgrounds book test using DrawingKit
