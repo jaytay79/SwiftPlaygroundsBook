@@ -7,7 +7,7 @@
 	<key>Name</key>
 	<string>Files</string>
 	<key>ContentIdentifier</key>
-	<string>com.highcaffeinecontent.playgroundbook.Files</string>
+	<string>com.jaytay79.playgroundbook.DrawingKit</string>
 	<key>ContentVersion</key>
 	<string>1</string>
 	<key>ImageReference</key>
@@ -16,7 +16,7 @@
 	<string>ios10.0</string>
 	<key>Chapters</key>
 	<array>
-		<string>Files.playgroundchapter</string>
+		<string>DrawingKit.playgroundchapter</string>
 	</array>
 </dict>
 </plist>
